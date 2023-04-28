@@ -1,18 +1,14 @@
-### Hi there 👋
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Issahar987&theme=transparent&border_radius=2.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&type=png)](https://git.io/streak-stats)
-
-<!--
-**issahar987/issahar987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello folks, It's a me, issahar!
+<div style="display: flex">
+  <div>
+    <a href="https://github.com/issahar987">
+      <img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=Issahar987&theme=transparent&hide_border=true&border_radius=2.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&type=png"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/issahar987">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=issahar987&theme=transparent&count_private=true&show_icons=true" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issahar987&theme=transparent&count_private=true&layout=compact" />
+    </a>
+  </div>
+</div>
