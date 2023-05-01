@@ -1,4 +1,35 @@
 ### Hello folks, It's a me, issahar!
+
+<h1> My tech stack </h1>
+
+<h2>Programming languages</h2>
+<div>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"/>
+</div>
+
+<h2>Frameworks</h2>
+<div>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"/>
+</div>
+
+<h2>Databases</h2>
+<div>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-plain-wordmark.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg"/>
+</div>
+
+<h2>Software</h2>
+<div>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-plain-wordmark.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg"/>
+  <img height="40em" width="80em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg"/>
+</div>
+
 <div style="display: flex">
   <div>
     <a href="https://github.com/issahar987">
